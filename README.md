@@ -23,16 +23,16 @@ Plate:
 - [Ortho stagger 2.25-2.00 spacebars plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/ortho-225200.dxf)
 - [Ortho stagger universal plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/ortho-universal.dxf)
 - [Alpha stagger 6.25u spacebar plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/alpha-625.dxf)
-- [Alpha stagger 2.75u spacebar plate plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/alpha-275.dxf)
-- [Alpha stagger 2.25-2.00 spacebars plate plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/alpha-225200.dxf)
+- [Alpha stagger 2.75u spacebar plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/alpha-275.dxf)
+- [Alpha stagger 2.25-2.00 spacebars plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/alpha-225200.dxf)
 - [Alpha stagger universal plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/alpha-universal.dxf)
 - [Uniform stagger 6.25u spacebar plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/uni-625.dxf)
-- [Uniform stagger 2.75u spacebar plate plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/uni-275.dxf)
-- [Uniform stagger 2.25-2.00 spacebars plate plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/uni-225200.dxf)
+- [Uniform stagger 2.75u spacebar plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/uni-275.dxf)
+- [Uniform stagger 2.25-2.00 spacebars plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/uni-225200.dxf)
 - [Uniform stagger universal plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/uni-universal.dxf)
 - [Traditional stagger 6.25u spacebar plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/trad-625.dxf)
-- [Traditional stagger 2.75u spacebar plate plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/uni-275.dxf)
-- [Traditional stagger 2.25-2.00 spacebars plate plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/trad-225200.dxf)
+- [Traditional stagger 2.75u spacebar plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/uni-275.dxf)
+- [Traditional stagger 2.25-2.00 spacebars plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/trad-225200.dxf)
 - [Traditional stagger universal plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/trad-universal.dxf)
 
 PCB:
@@ -52,7 +52,7 @@ I have made with FDM to good effect.
 
 **Additional materials:**
  
-  - About 16" (???) of .139" (3.53mm) cross section o-ring cord [like this 50A cord](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=117_527&products_id=18618) or [this 70A cord](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=117_119&products_id=5058); if you don't want to buy bulk cord, you can cut up an o-ring of like 6" or bigger diameter.
+  - About 16" of .139" (3.53mm) cross section o-ring cord [like this 50A cord](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=117_527&products_id=18618) or [this 70A cord](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=117_119&products_id=5058); if you don't want to buy bulk cord, you can cut up an o-ring of like 6" or bigger diameter.
   - 4 SKUF feet like these  [like these](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet).
 
 **Build instructions:**
