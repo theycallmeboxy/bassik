@@ -18,21 +18,18 @@ Case:
 - [Case .step file](https://github.com/theycallmeboxy/bassik/blob/main/models/case/bassik-case.step)
 
 Plate:
-- [Ortho stagger 6.25u spacebar plate .dxf file]()
-- [Ortho stagger 2.75u spacebar plate .dxf file]()
-- [Ortho stagger 2.00-2.25 spacebars plate .dxf file]()
-- [Ortho stagger universal plate .dxf file]()
-
+- [Ortho stagger 6.25u spacebar plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/ortho-625.dxf)
+- [Ortho stagger 2.75u spacebar plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/ortho-275.dxf)
+- [Ortho stagger 2.00-2.25 spacebars plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/ortho-200225.dxf)
+- [Ortho stagger universal plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/ortho-universal.dxf)
 - [Alpha stagger 6.25u spacebar plate .dxf file]()
 - [Alpha stagger 2.75u spacebar plate plate .dxf file]()
 - [Alpha stagger 2.00-2.25 spacebars plate plate .dxf file]()
 - [Alpha stagger universal plate .dxf file]()
-
-- [Uniform stagger 6.25u spacebar plate .dxf file]()
-- [Uniform stagger 2.75u spacebar plate plate .dxf file]()
-- [Uniform stagger 2.00-2.25 spacebars plate plate .dxf file]()
-- [Uniform stagger universal plate .dxf file]()
-
+- [Uniform stagger 6.25u spacebar plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/uni-625.dxf)
+- [Uniform stagger 2.75u spacebar plate plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/uni-275.dxf)
+- [Uniform stagger 2.00-2.25 spacebars plate plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/uni-200225.dxf)
+- [Uniform stagger universal plate .dxf file](https://github.com/theycallmeboxy/bassik/blob/main/models/plate/uni-universal.dxf)
 - [Traditional stagger 6.25u spacebar plate .dxf file]()
 - [Traditional stagger 2.75u spacebar plate plate .dxf file]()
 - [Traditional stagger 2.00-2.25 spacebars plate plate .dxf file]()
