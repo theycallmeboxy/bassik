@@ -14,8 +14,8 @@
 > **I'm not a doctor. This is not medical advice. I'm also only a network engineer. You assume all liability in using or reproducing these files.**
 
 Case:
-- [Case .stl file]()
-- [Case .step file]()
+- [Case .stl file](https://github.com/theycallmeboxy/bassik/blob/main/models/case/bassik-case.stl)
+- [Case .step file](https://github.com/theycallmeboxy/bassik/blob/main/models/case/bassik-case.step)
 
 Plate:
 - [Ortho stagger 6.25u spacebar plate .dxf file]()
@@ -39,15 +39,15 @@ Plate:
 - [Traditional stagger universal plate .dxf file]()
 
 PCB:
-> [!INFO]
+> [!NOTE]
 > Version 1 was produced (as prototype 1) without any identified issues.  The gerbers were regenerated to indicate version 1 on the silk and have retained the original BOM and positions files.  I have not produced these files yet, but they should be good to go.
 
-- [PCB gerbers .zip file]()
-- [BOM .csv file]()
-- [Positions .csv file]()
+- [PCB gerbers .zip file](https://github.com/theycallmeboxy/bassik/blob/main/pcb/bassik%20v1/production/bassik.zip)
+- [BOM .csv file](https://github.com/theycallmeboxy/bassik/blob/main/pcb/bassik%20v1/production/bom.csv)
+- [Positions .csv file](https://github.com/theycallmeboxy/bassik/blob/main/pcb/bassik%20v1/production/positions.csv)
 
 Firmware:
-- [VIAL Firmware .bin file]()
+- [VIAL Firmware .bin file](https://github.com/theycallmeboxy/bassik/blob/main/firmware/vial/binary/boxy_bassik_vial.bin)
   
 ## Build Notes:
 
@@ -68,6 +68,6 @@ I have made with FDM to good effect.
 
 <img src="https://github.com/theycallmeboxy/bassik/blob/main/img/bassik-cord-path.jpg" alt="keyborb" width="600"/>
 
-6. Insert the assembled PCB number keys first into the case at an angle while aligning the USB port with the cutout.
+6. Insert the assembled PCB USB port first into the case at an angle, aligning the port with the cutout.
 7. Press the top of the PCB in place, then press in the bottom side (if your cord isn't fully seated, sticks out on the corners, or otherwise catches going in, grab some tweezers and help it stay in between the plate and PCB). 
 8. If you need to remove the PCB, pull a few caps off and use a switch puller on the soldered switches.
